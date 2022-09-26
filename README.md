@@ -6,7 +6,7 @@ We develop a novel framework  to address the problem of efficiently finding homo
 ## Contents
 
     README ...................  This file
-    script ...................  Script to run the algorithms
+    script/ ..................  Script to run the algorithms
     test/  ...................  Example graphs and queries
     JARs/ ....................  External JARs
     RigMatch/ ................  Sources for our approach
