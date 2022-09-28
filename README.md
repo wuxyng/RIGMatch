@@ -42,6 +42,4 @@ e 3 4 0
 
 The real world datasets and the corresponding query sets used in our paper as well as cypher queries used for the comparisons with Neo4j can be downloaded from [here](https://drive.google.com/drive/folders/1_-pXpQFY8QvryA5wP6Flk3-bZ-AuUbOs?usp=sharing). Datasets and the corresponding query sets used for comparison with RapidMatch can be downloaded from [there](https://github.com/RapidsAtHKUST/RapidMatch).
 
-## Contributors
 
-    @Xiaoying Wu
